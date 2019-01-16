@@ -1,0 +1,17 @@
+{
+    
+    "from": "mukesh.fiv@gmail.com11",
+    "Subject": "Testing Mail from Mukesh kumar rai using python",
+    
+    "body": "<b>Hi <i>Team ,</i><br> QR Code generatored For Hotel FCS</b> .<br><img src='cid:image1' height='250' width='250'><br>Regads <br>FCS Admin",
+	"msgType": "HTML",
+    "to": [
+        {
+            "email": "mukeshkumar.rai@planet1world.com",
+            "name": "Mukesh"
+        }
+        
+    ]
+    
+
+}
