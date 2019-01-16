@@ -5,10 +5,6 @@ import json
 from tkinter import messagebox
 import sendMail
 
-# sendMail = sendMail.Smpt('smtp.gmail.com', 587)
-# smtpconf = sendMail.connectsmtp()
-# a =Smpt('smtp.gmail.com', 587)
-# z= a.connectsmtp()
 with open('config.json') as conf_data:
         conf =  json.load(conf_data)
         mq_url             = conf['mq_url']
